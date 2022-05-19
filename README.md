@@ -16,8 +16,8 @@ I’m a Front End Web developer who is passionate about making error-free websit
  - SEO
  - Photoshop 
  
- ## Contact info:
- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imontalukder)](https://github.com/anuraghazra/github-readme-stats)
 
+ ## Contact info:
+ 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imontalukder&show_icons=true)
