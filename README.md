@@ -9,6 +9,8 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 Skills: HTML / CSS/ JS / JavaScript / PHP / WordPress 
 
+### Skills & Experiance:
+
 -  I’m currently working on Suha Corporation 
 -  I’m currently learning JavaScript and Python 
 -  I’m looking to collaborate on github 
