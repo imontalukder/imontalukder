@@ -9,10 +9,10 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 Skills: HTML / CSS/ JS / JavaScript / PHP / WordPress 
 
-- 🔭 I’m currently working on Suha Corporation 
-- 🌱 I’m currently learning JavaScript and Python 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Developer 
+-  I’m currently working on Suha Corporation 
+-  I’m currently learning JavaScript and Python 
+-  I’m looking to collaborate on github 
+-  Ask me about Web Developer 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imontalukder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BEPpINZvJRRCoLSTseq858w%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/imon2543)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](imontalukder.com)  
