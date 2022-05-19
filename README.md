@@ -19,9 +19,7 @@ Skills: HTML / CSS/ JS / JavaScript / PHP / WordPress
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imontalukder)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imontalukder&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imontalukder)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imontalukder&show_icons=true)
 
 ![GitHub metrics](https://metrics.lecoq.io/imontalukder)  
 
