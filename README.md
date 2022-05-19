@@ -1,5 +1,7 @@
 ![I am Web Developer](https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/282559991_137511882197070_7478184056899296740_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=NNxPPwxKQEMAX-3wLPG&_nc_ht=scontent.fdac27-1.fna&oh=00_AT_qv0sjggkSN62UTNBEfhQy1QDufrKSGKnqdoSmWl8i0w&oe=628C026A)
 
+![Profile views](https://gpvc.arturio.dev/imontalukder)  
+
 ## Hi, I'm Imon Talukder 👋
 #### I am Web Developer
 
@@ -24,5 +26,3 @@ Skills: HTML / CSS/ JS / JavaScript / PHP / WordPress
 ![GitHub metrics](https://metrics.lecoq.io/imontalukder)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imontalukder)  
-
-![Profile views](https://gpvc.arturio.dev/imontalukder)  
